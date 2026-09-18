@@ -1,0 +1,6 @@
+# Compiler files
+cache/
+out/
+
+# Dependencies -- run `forge install` to fetch the exact versions pinned in foundry.lock
+lib/
